@@ -30,6 +30,7 @@ Download the source code from the the Tinker.it Google Code site. Load it into t
 
 Construction
 
+![image](https://github.com/bhunting/tinkeritgranular/assets/407277/5419f563-00b8-49e3-ba91-ecdabaab69b8)
 
 
 Auduino uses 5 controls. You can use anything that generates a 0-5V analogue signal, but the prototype uses five 4.7Kohm linear potentiometers. 
